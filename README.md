@@ -1,0 +1,1 @@
+# Sentiment_Anlysis_using_Kares_and_NLTK_including_GUI
